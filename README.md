@@ -1,5 +1,5 @@
 # Portfolio
-Compilation of personal and online courses projects.
+Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building *Extract, Transform, Load,* (ETL) pipelines, *Exploratory Data Analysis* (EDA) and, building and validating *machine learning* models.
 
 ## [Building Energy Usage Model](https://github.com/sergatron/ASHRAE---Great-Energy-Predictor-III)
 #### Feb 2020 – Mar 2020
@@ -27,7 +27,7 @@ This project focuses on analyzing interactions between users and articles on the
  - Evaluated multiple regression models (Ridge, RandomForest, GradientBoosting) and optimized the pipeline to minimize the RMSE and MAE.
 
 
-## [Data Dashboards Experimentation](https://github.com/sergatron/data-dashboard)
+## [Data Dashboards](https://github.com/sergatron/data-dashboard)
 #### Oct 2019
 Dashboards developing using ***Flask***, ***Plotly***, ***Pandas*** and ***NumPy***. Using data acquired from [WorldBank](https://data.worldbank.org/), it is cleaned and transformed into usable form using Pandas framework. Flask is used to create a HTML template for visualizations with Plotly. 
 
