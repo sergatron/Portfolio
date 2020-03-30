@@ -1,5 +1,5 @@
 # Portfolio
-Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building *Extract, Transform, Load,* (ETL) pipelines, *Exploratory Data Analysis* (EDA) and, building and validating *machine learning* models.
+Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building **Extract, Transform, Load,** (ETL) pipelines, **Exploratory Data Analysis** (EDA) and, building and validating **Machine Learning** models.
 
 ## [Building Energy Usage Model](https://github.com/sergatron/ASHRAE---Great-Energy-Predictor-III)
 #### Feb 2020 – Mar 2020
